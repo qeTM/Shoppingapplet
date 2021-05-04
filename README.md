@@ -1,4 +1,4 @@
-# dianzi
+# Shoppingapplet
 
 ## Project setup
 ```
